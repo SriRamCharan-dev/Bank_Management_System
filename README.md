@@ -14,4 +14,5 @@ Why This Project?
 This project helped me practice file handling, structs, and basic banking operations in C. It’s a learning project, not intended for real-world banking.
 
 📌 Check out the code and feel free to give feedback! 🚀
-
+# Note
+A Toy project top apply file hanlding concept in c
